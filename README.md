@@ -102,7 +102,7 @@
   
 <h1 align="center">Conecta conmigo</br></h1>
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/fco-ccornejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fco-ccornejo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fco-ccornejo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fco-ccornejo" height="30" width="40" /></a>
 </p>
 <hr></hr> <!-- linea de separacion -->
 <br>
