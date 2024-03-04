@@ -42,15 +42,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="postgresql" width="40" height="40"/></a>
-  <br><br>
-  <b style="text-align: left;">💬 Podemos hablar sobre: Ciencia, Organización y Minimalismo🔳 </b>
+
   <br>
-  <b style="text-align: left;">📫 Puedes contactarme en: <a href="mailto:fco.ccornejo@gmail.com">fco.ccornejo@gmail.com</a></b>
-  <br>
-  <b style="text-align: left;">⚡ Dato curioso: Me gusta documentar📝</b>
-  <br><br>
+  
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocornejo&show_icons=true&theme=dark&locale=en&layout=compact" alt="franciscocornejo"/>
 </p>
+
 <br></br>
 
 <h1 align="center">Tengo conocimiento en las siguientes Tecnologias</br></h1> 
