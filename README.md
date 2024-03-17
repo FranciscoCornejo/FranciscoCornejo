@@ -6,13 +6,8 @@
 <br>
   
 <p align="center"> 
-  <b style="text-align: left;">Un poco sobre mi: </b>
 <br>  
   <b style="text-align: left;">Disfruto hablar sobre Ciencia🌌, Organización📦 y Minimalismo⬛ </b>
-<br>
-  <b style="text-align: left;">Me gusta jugar Volleyball🏐</b>
-<br>
-  <b style="text-align: left;">⚡ Dato curioso: Soy bueno documentando📝</b>
 <br>
   <b style="text-align: left;">📫 Puedes contactarme en: <a href="mailto:fco.ccornejo@gmail.com">fco.ccornejo@gmail.com</a></b>
 </p>
