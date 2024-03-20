@@ -13,8 +13,6 @@
 </p>
 <br></br>
 
-
-
 <!-- Presentacion -->
 <p align="center">
   <!--<b style="text-align: left;">🔭 Actualmente estoy trabajando en mi <a href="https://github.com/FranciscoCornejo">Portafolio</a></b>
@@ -38,12 +36,12 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="postgresql" width="40" height="40"/></a>
 
-  <br>
-  
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocornejo&show_icons=true&theme=dark&locale=en&layout=compact" alt="franciscocornejo"/>
-</p>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocornejo&show_icons=true&theme=dark&locale=en&layout=compact" alt="franciscocornejo" width="422" height="250"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" width="500" height="250"/>
+  </p>
 
-<br></br>
+<br>
 
 <h1 align="center">Tengo conocimiento en las siguientes Tecnologias</br></h1> 
 <h3 align="center">Lenguajes:</h3>
@@ -88,7 +86,7 @@
   
 <h1 align="center">Mi actividad en Github</br></h1> 
 <p align="center"> <img src="https://myreadme.vercel.app/api/embed/FranciscoCornejo?panels=userstatistics,toplanguages,toprepositories,commitgraph" alt="reimaginedreadme" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" /></p> -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscocornejo" alt="franciscocornejo" /></a> </p>
 <br>
   
