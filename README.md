@@ -37,8 +37,8 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="postgresql" width="40" height="40"/></a>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocornejo&show_icons=true&theme=dark&locale=en&layout=compact" alt="franciscocornejo" width="261" height="185"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" width="330" height="185"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocornejo&show_icons=true&theme=dark&locale=en&layout=compact" alt="franciscocornejo" width="353" height="215"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" width="420" height="215"/>
   </p>
 
 <br>
