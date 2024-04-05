@@ -43,6 +43,7 @@
 
 <br>
 
+<hr></hr>
 <h1 align="center">Tengo conocimiento en las siguientes Tecnologias</br></h1> 
 <h3 align="center">Lenguajes:</h3>
 <p align="center"> 
@@ -55,7 +56,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/></a>&nbsp;&nbsp;
   </p>
 
-<hr></hr> <!-- linea de separacion -->
+<br><!-- linea de separacion <hr></hr> -->
   
 <h3 align="center">Frameworks:</h3>
 <p align="center"> 
@@ -63,7 +64,7 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="postgresql" width="40" height="40"/></a>
 </p>
 
-<hr></hr> <!-- linea de separacion -->
+<br><!-- linea de separacion <hr></hr> -->
   
 <h3 align="center">DBMS:</h3>
 <p align="center"> 
@@ -71,7 +72,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
-<hr></hr> <!-- linea de separacion -->
+<br><!-- linea de separacion <hr></hr> -->
 
 <h3 align="center">Herramientas y UML:</h3>
 <p align="center">
@@ -83,13 +84,15 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
   </p>
 <br></br>
-  
+
+<hr></hr>
 <h1 align="center">Mi actividad en Github</br></h1> 
 <p align="center"> <img src="https://myreadme.vercel.app/api/embed/FranciscoCornejo?panels=userstatistics,toplanguages,toprepositories,commitgraph" alt="reimaginedreadme" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" /></p> -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscocornejo" alt="franciscocornejo" /></a> </p>
 <br>
-  
+
+<hr></hr>
 <h1 align="center">Conecta conmigo</br></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/fco-ccornejo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fco-ccornejo" height="30" width="40" /></a>
