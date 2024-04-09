@@ -68,7 +68,7 @@
   
 <h3 align="center">DBMS:</h3>
 <p align="center"> 
-  <a href="https://www.microsoft.com/es-cl/sql-server/sql-server-2022" target="_blank" rel="noreferrer"> <img src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" alt="sqlServer" width="40" height="40"/></a>
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
