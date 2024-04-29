@@ -2,16 +2,15 @@
 <h1 align="center"> Hola✨, soy Francisco <br>Ingenierio Informático y FullStack Developer 🇨🇱</br> </h1> 
 <br><br>
 <p align="center">
-  <b style="text-align: left;">Licenciado en Ingeniería en Informática y Gestión de la <a href="https://www.udp.cl/">Universidad Diego Portales</a></b>
-  <br>
+  <b style="text-align: left;">Licenciado en Ingeniería en Informática y Gestión de la &nbsp; <a href="https://www.udp.cl/" target="_blank" rel="noreferrer"> <img src="https://www.udp.cl/cms/wp-content/uploads/2021/06/UDP_LogoRGB_2lineas_Blanco_SinFondo.png" alt="gmail" width="130" height="40"/></a>&nbsp;&nbsp;</b>
   <!-- Titulo Presentacion <b style="text-align: left;">🔭 Actualmente estoy desarrollando mi <a href="https://github.com/FranciscoCornejo">Portafolio</a></b> -->
-<br>
   
+<br>
+<b style="text-align: left;">Disfruto hablar sobre Ciencia🌌, Organización📦 y Minimalismo⬛ </b>
 <p align="center"> 
 <br>  
-  <b style="text-align: left;">Disfruto hablar sobre Ciencia🌌, Organización📦 y Minimalismo⬛ </b>
-<br>
-  <b style="text-align: left;">📫 Puedes contactarme en: <a href="mailto:fco.ccornejo@gmail.com">fco.ccornejo@gmail.com</a></b>
+  <b style="text-align: left;">📫 Puedes contactarme aqui&nbsp; <a href="https://www.linkedin.com/in/fco-ccornejo/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="28" height="28"/></a></b>
+  <b style="text-align: left;"> <a href="https://www.linkedin.com/in/fco-ccornejo/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="Linkedin" width="31" height="31"/></a>&nbsp;&nbsp;</b> 
 </p>
 <br></br>
 
@@ -19,7 +18,7 @@
 <p align="center">
   <!--<b style="text-align: left;">🔭 Actualmente estoy trabajando en mi <a href="https://github.com/FranciscoCornejo">Portafolio</a></b>
   <br><br> Presentacion -->
-  <b style="text-align: left;">💻 En mis experiencias laborales previas he trabajado con: &nbsp;</b>
+  <b style="text-align: left;">💻 En mi experiencia laboral previa trabaje con: &nbsp;</b>
   <a href="https://www.powerdesigner.biz/" target="_blank" rel="noreferrer"> <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="oracle" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.oracle.com/cl/cloud/" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/social-og-oci-logo-1200x1200.jpg" alt="oracle" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://docs.oracle.com/en/cloud/saas/otbi/index.html" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="Oracle Transactional Business Intelligence" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -27,8 +26,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
   <br><br> <b style="text-align: left;"></b> 
+  <b style="text-align: left;">para la firma de auditoría, asesoramiento fiscal y legal, consultoría y transacciones &nbsp; <a href="https://www.pwc.com/cl/es" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.63271.7aca1238-d508-40a2-ab4a-29ccafc15789.008d4d7e-b7dc-474e-ba1c-7f869921f724.933ef392-43ed-4f56-bd2d-592b1f4102b4" alt="PwC" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;</b>
   </p>
-  <p align="center"><b style="text-align: left;">🌱 Actualmente estoy aprendiendo programación Web con:</b>
+  <br><br>
+  <p align="center"><b style="text-align: left;">🌱 Actualmente aprendiendo programación Web con:</b>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/></a>&nbsp;
@@ -36,12 +37,17 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" alt="npm" width="40" height="40"/></a>&nbsp;
 
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocornejo&show_icons=true&theme=dark&locale=en&layout=compact" alt="franciscocornejo" width="353" height="215"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" width="420" height="215"/>
   </p>
+
+<p align="center">
+  <b style="text-align: left;">Disfruto hablar sobre Ciencia🌌, Organización📦 y Minimalismo⬛ </b>
+</p>
 
 <br>
 
@@ -82,7 +88,8 @@
   <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://w1.pngwing.com/pngs/306/12/png-transparent-ajax-logo-jquery-javascript-javascript-library-github-foundation-angularjs-yii.png" alt="bash" width="40" height="40"/></a>
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci81YTdhMjQwNjY2M2NmNjBlMjRjMTQxNGM0YmFiOTViOD9zaXplPTEwMCZkZWZhdWx0PXJldHJvIn0.L96cm_COxpUMhBHOZmRPYf3oZLrfDmQrdEQeaAxKSTo" alt="canvasjs" width="40" height="40"/></a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/512px-Babel_Logo.svg.png" alt="babel" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" alt="npm" width="38" height="38"/></a>&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
   </p>
 <br></br>
