@@ -2,7 +2,9 @@
 <h1 align="center"> Hola✨, soy Francisco <br>Ingenierio Informático y FullStack Developer 🇨🇱</br> </h1> 
 <br><br>
 <p align="center">
-  <b style="text-align: left;">🔭 Actualmente estoy desarrollando mi <a href="https://github.com/FranciscoCornejo">Portafolio</a></b>
+  <b style="text-align: left;">Licenciado en Ingeniería en Informática y Gestión de la <a href="https://www.udp.cl/">Universidad Diego Portales</a></b>
+  <br>
+  <!-- Titulo Presentacion <b style="text-align: left;">🔭 Actualmente estoy desarrollando mi <a href="https://github.com/FranciscoCornejo">Portafolio</a></b> -->
 <br>
   
 <p align="center"> 
