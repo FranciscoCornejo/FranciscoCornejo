@@ -9,7 +9,7 @@
 <b style="text-align: left;">Disfruto hablar sobre Ciencia🌌, Organización📦 y Minimalismo⬛ </b>
 <p align="center"> 
 <br>  
-  <b style="text-align: left;">📫 Puedes contactarme aqui&nbsp; <a href="https://www.linkedin.com/in/fco-ccornejo/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="28" height="28"/></a></b>
+  <b style="text-align: left;">📫 Puedes contactarme aqui&nbsp; <a href="fco.ccornejo@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="28" height="28"/></a></b>
   <b style="text-align: left;"> <a href="https://www.linkedin.com/in/fco-ccornejo/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="Linkedin" width="31" height="31"/></a>&nbsp;&nbsp;</b> 
 </p>
 <br></br>
@@ -85,7 +85,7 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/512px-Babel_Logo.svg.png" alt="babel" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.npmjs.com/" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" alt="npm" width="38" height="38"/></a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   </p>
 <br></br>
 
