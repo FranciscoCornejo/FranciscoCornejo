@@ -40,11 +40,6 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.npmjs.com/" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" alt="npm" width="40" height="40"/></a>&nbsp;
 
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocornejo&show_icons=true&theme=dark&locale=en&layout=compact" alt="franciscocornejo" width="353" height="215"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" width="420" height="215"/>
-  </p>
-
 <p align="center">
   <b style="text-align: left;">Disfruto hablar sobre Ciencia🌌, Organización📦 y Minimalismo⬛ </b>
 </p>
@@ -96,9 +91,13 @@
 
 <hr></hr>
 <h1 align="center">Mi actividad en Github</br></h1> 
-<p align="center"> <img src="https://myreadme.vercel.app/api/embed/FranciscoCornejo?panels=userstatistics,toplanguages,toprepositories,commitgraph" alt="reimaginedreadme" /></p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" /></p> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscocornejo" alt="franciscocornejo" /></a> </p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocornejo&show_icons=true&theme=dark&locale=en&layout=compact" alt="franciscocornejo" width="353" height="215"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" width="420" height="215"/>
+    <img src="https://myreadme.vercel.app/api/embed/FranciscoCornejo?panels=userstatistics,toplanguages,toprepositories,commitgraph" alt="reimaginedreadme" width="780" height="185" />
+    <img src="https://github-profile-trophy.vercel.app/?username=franciscocornejo" alt="franciscocornejo" width="780" height="185" />
+  <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscocornejo&theme=dark" alt="franciscocornejo" /></p> -->
+ </p>
 <br>
 
 <hr></hr>
