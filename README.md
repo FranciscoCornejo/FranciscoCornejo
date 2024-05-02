@@ -39,10 +39,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.npmjs.com/" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" alt="npm" width="40" height="40"/></a>&nbsp;
+<br><br>
 
-<p align="center">
-  <b style="text-align: left;">Disfruto hablar sobre Ciencia🌌, Organización📦 y Minimalismo⬛ </b>
-</p>
 
 <br>
 
