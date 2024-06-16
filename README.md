@@ -1,5 +1,5 @@
 <!-- Titulo Presentacion -->
-<h1 align="center"> Hola✨, soy Francisco <br>Ingenierio Informático y FullStack Developer 🇨🇱</br></h1> 
+<h1 align="center"> Hola✨, soy Francisco <br>Ingenierio Informático 🇨🇱</br></h1> 
 <br><br>
 <p align="center">
   <b style="text-align: left;">Licenciado en Ingeniería en Informática y Gestión de la &nbsp; <a href="https://www.udp.cl/" target="_blank" rel="noreferrer"> <img src="https://www.udp.cl/cms/wp-content/uploads/2021/06/UDP_LogoRGB_2lineas_Blanco_SinFondo.png" alt="gmail" width="130" height="40"/></a>&nbsp;&nbsp;</b>
